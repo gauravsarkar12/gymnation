@@ -8,4 +8,4 @@ GymNation is a responsive website built using HTML5, CSS3, and Javascript. The p
 
 ### Live Demo
 
-https://gauravsarkar12.github.io/gymnation/
+https://www.gauravsarkar12.github.io/gymnation/
